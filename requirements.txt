@@ -8,4 +8,6 @@ gotrue==2.5.4
 postgrest==0.16.8
 storage3==0.7.7
 realtime==1.0.6
-httpx==0.27.0
+httpx
+pytest==7.4.0
+websockets
